@@ -1,3 +1,4 @@
 ls - list
-pwd - present working directory
+pwd - print working directory
+cd - change directory
 
