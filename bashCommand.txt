@@ -1,4 +1,4 @@
-ls - list
+ls - list ,Ex - ls - al ,ls -l. 
 pwd - print working directory
 cd - change directory
 
