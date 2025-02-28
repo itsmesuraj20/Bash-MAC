@@ -7,3 +7,4 @@ echo - to display the text that you give
 nano - to exit a file (complex)
 open - to open the directory
 
+
