@@ -4,7 +4,9 @@ cd - change directory
 
 touch - to create a file 
 echo - to display the text that you give
-nano - to exit a file (complex)
+nano - to edit a file (complex)
 open - to open the directory
 
+cp - copy the file 
+mv - move the file into some directory
 
