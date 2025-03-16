@@ -1,4 +1,7 @@
-ls - list ,Ex - ls - al ,ls -l. 
+ssh -
+
+ls - list ,Ex - ( ls - al ) ,( ls -l ). 
+
 pwd - print working directory
 cd - change directory
 
@@ -9,4 +12,17 @@ open - to open the directory
 
 cp - copy the file 
 mv - move the file into some directory
+
+vim - to edit a file 
+:wq - write and quit
+
+cat - to view whats inside the file 
+shred -  to hide the file (encrypted)
+
+rm - remove the file 
+rmdir -  remove a directory 
+rm -r - to remove the recursively the directory
+
+
+
 
